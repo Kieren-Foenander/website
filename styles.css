@@ -21,11 +21,10 @@ body{
 }
 
 .primary-navigation{
-    flex-direction: column;
-    list-style: none;
-    margin-inline: 2.5px;
+    margin: 0;
     padding: 5px;
-    border-radius: 20px;
+    list-style: none;
+    
 
     
 }
